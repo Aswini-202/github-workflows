@@ -1,0 +1,11 @@
+{
+  "name": "docker-image-create",
+  "version": "1.0.0",
+  "description": "A project for creating Docker images",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
