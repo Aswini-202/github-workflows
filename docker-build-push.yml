@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: anildevops123/veda:latest
+          tags: anildevops123/rrr:latest
